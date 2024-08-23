@@ -1,4 +1,4 @@
-# Project_2 : Pyspark E-Commerce Customers Segmentation
+# Project : Pyspark E-Commerce Customers Segmentation
 
 ## Source/Reference:
 
